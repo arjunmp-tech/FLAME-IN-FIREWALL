@@ -1,0 +1,5 @@
+title,o2_min_pct,o2_max_pct,p_min_kpa,p_max_kpa,note
+Saffire-IV,22.0,22.0,100.0,100.0,Tests IV-1 and IV-2 as executed
+BASS-II,16,21,101.3,101.3,1 atm with nitrogen dilution
+FLEX,10,40,70.9,304.0,0.7 to 3.0 atm with CO2 or helium dilution
+CFI-G,39,39,200,200,Cool flames at 0.39 oxygen and 2 bar (oxidizer up to 85 percent per brief)
